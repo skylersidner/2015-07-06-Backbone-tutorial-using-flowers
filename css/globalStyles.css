@@ -1,0 +1,46 @@
+body {
+	background-color: #CCCCCC;
+}
+
+.site {
+	background-color: #FFFFFF;
+	border: 2px solid black;
+	padding: 2px;
+	width: 60%;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.logo {
+
+}
+
+#allFlowers {
+	background-color: #CCCCFF;
+	border: 1px solid gray;
+    overflow: hidden;
+    width: auto;
+}
+
+#allFlowers img {
+	height: 200px;
+	width: 200px;
+	border: 2px solid red;
+    position: relative;
+}
+
+.flowerListItem {
+	float: left;
+    padding: 5px;	
+}
+
+.bgColorImage {
+	background-color: grey;
+}
+
+
+#copy {
+	text-align: center;
+	font: 24px Times;
+	color: red;
+}
